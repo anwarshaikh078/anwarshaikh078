@@ -4,7 +4,7 @@
 - :book: I’m currently learning Spark
 - 👯 I’m looking to collaborate with geeky minds
 - 🥅 2022 Goals: Deep Dive into Big Data Technologies
-- 📫 How to reach me: [Portfolio](http://anwarshaikh078.github.io/anwarshaikh.me)
+- 📫 How to reach me: [Portfolio](http://anwarshaikh078.github.io)
 
 ---
 
