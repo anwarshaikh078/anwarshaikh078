@@ -48,7 +48,7 @@
 
 
 
-[website]: http://anwarshaikh078.github.io/anwarshaikh.me
+[website]: http://anwarshaikh.com
 [hackerrank]: https://www.hackerrank.com/anwarshaikh078
 [linkedin]: https://www.linkedin.com/in/anwarshaikh078/
 
