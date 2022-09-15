@@ -35,7 +35,7 @@
 
 <img align="left" alt="Anwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anwarshaikh078&show_icons=true&hide_border=true&theme=light&hide_title=true&include_all_commits=true&count_private=true" />
 
-<img align="left" alt="Most Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarshaikh078&layout=compact" />
+<img align="left" alt="M" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarshaikh078&layout=compact" />
 
 </br>
 </br>
