@@ -35,12 +35,6 @@
 
 <img align="left" alt="Anwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anwarshaikh078&show_icons=true&hide_border=true&theme=light&hide_title=true&include_all_commits=true&count_private=true" />
 
-
----
-
-
-
-
 [website]: http://anwarshaikh.com
 [hackerrank]: https://www.hackerrank.com/anwarshaikh078
 [linkedin]: https://www.linkedin.com/in/anwarshaikh078/
